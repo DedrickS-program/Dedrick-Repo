@@ -1,0 +1,31 @@
+baseURL: "https://dedrick-sin.com/"
+title: "Dedrick Sinclair"
+theme: "PaperMod"
+languageCode: "en-us"
+locale: en-us
+
+params:
+  defaultTheme: auto
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+  homeInfoParams:
+    Title: "Dedrick Sinclair"
+    Content: "Cloud Security & Identity Engineer. Sharing what I'm learning along the way."
+  socialIcons:
+    - name: linkedin
+      url: "https://www.linkedin.com/in/dedrick-sinclair-059943233/"
+    - name: github
+      url: "https://github.com/DedrickS-program"
+
+menu:
+  main:
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 10
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 20
