@@ -1,6 +1,6 @@
 ---
 date: '2026-05-05T19:04:24-05:00'
-draft: true
+draft: false
 title: 'Hello World'
 tags: ["meta"]
 ---
